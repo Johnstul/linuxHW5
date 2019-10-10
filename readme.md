@@ -5,5 +5,6 @@
 * Ambar Ruiz
 * John Stulich
 * Napoleon Santana
-* Rebecca Tobias
 * Daniel Tapia
+* Rebecca Tobias
+* Alexander Vega
